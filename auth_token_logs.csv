@@ -1,0 +1,7 @@
+id,action,user_auth_token_id,client_ip,auth_token_hash,created_at,path,user_agent
+1365,generate,393,92.224.96.82,d4H0j...,2022-10-15 03:26:53 UTC,/u,"Mozilla/5.0 (Linux; Android 12; SM-A415F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
+1366,rotate,393,92.224.96.82,PUjCJ...,2022-10-15 03:36:56 UTC,/topics/timings,"Mozilla/5.0 (Linux; Android 12; SM-A415F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
+1367,rotate,393,92.224.96.82,D5gZT...,2022-10-15 03:37:57 UTC,/u/Anna_OneR.json,"Mozilla/5.0 (Linux; Android 12; SM-A415F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
+1368,rotate,393,92.224.96.82,f++di...,2022-10-15 03:48:14 UTC,/t/what-is-the-echo-token/45/3,"Mozilla/5.0 (Linux; Android 12; SM-A415F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
+1376,rotate,393,78.54.2.158,TSpgx...,2022-10-19 04:14:12 UTC,/user_avatar/forum.echo-exchange.com/anna_oner/96/86_2.png,"Mozilla/5.0 (Linux; Android 12; SM-A415F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
+1377,rotate,393,78.54.2.158,/653i...,2022-10-19 04:15:45 UTC,/notifications,"Mozilla/5.0 (Linux; Android 12; SM-A415F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
